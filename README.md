@@ -10,9 +10,3 @@
         <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> </a>
     </p>
 </body>
-
-<style>
-    body {
-        background-color: azure;
-    }
-</style>
